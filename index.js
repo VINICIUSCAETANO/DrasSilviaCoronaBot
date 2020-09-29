@@ -18,7 +18,7 @@ function WebhookProcessing(req, res) {
 }
 
 async function ReturnWelcomeIntent(agent) {
-    agent.add("Olá! Sou a Doutora Silvia, uma assistente virtual treinada para tirar suas dúvidas relacionadas ao Coronavírus.")
+    agent.add("Qual assunto você quer saber?");
 }
 
 async function DefaultFallbackIntent(agent) {
