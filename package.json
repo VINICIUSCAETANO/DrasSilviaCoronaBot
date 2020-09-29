@@ -13,7 +13,9 @@
     "actions-on-google": "^2.13.0",
     "dialogflow": "^1.2.0",
     "dialogflow-fulfillment": "^0.6.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "firebase-admin": "^5.12.1",
+    "firebase-functions": "^1.0.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
